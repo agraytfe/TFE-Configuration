@@ -1,5 +1,5 @@
 
-variable "Name" {
+variable "name" {
 default="bob"
 }
 
